@@ -1,0 +1,6 @@
+# Directory for experimenting
+test/
+
+# Data is too large to push to Github
+data/
+data.zip
